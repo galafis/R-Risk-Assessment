@@ -1,8 +1,6 @@
 
 # R-Risk-Assessment
 
-![Hero Image](assets/hero_image.png)
-
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](docs/LICENSE)
 [![R Version](https://img.shields.io/badge/R-4.1.2-blue.svg)](https://www.r-project.org/)
 [![GitHub last commit](https://img.shields.io/github/last-commit/galafis/R-Risk-Assessment)](https://github.com/galafis/R-Risk-Assessment/commits/main)
